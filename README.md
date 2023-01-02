@@ -61,7 +61,7 @@ what is stack?
       <img src=""  alt="stack"/>
      ![stack](stack.png)
      
-     
+     ![foxdemo](https://github.com/foxdemo/foxdemo.github.io/blob/master/assets/images/avatar.png)
       
         
       
