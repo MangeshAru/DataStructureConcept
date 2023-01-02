@@ -58,7 +58,7 @@ what is stack?
       }
       
       
-      <img src="G:\stack.png" width="128"/>
+      <img src="G:/stack.png" width="128"/>
       
       
       
