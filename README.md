@@ -6,6 +6,7 @@ what is stack?
      ------------------------------------------------stack----------------------------------------------------------------
      
       stack is simply first in last out.
+      Insertion and deletion happens at the same end.
       stack is the data structure which follows LIFO 
       insertion and deletion happens at the same end i.e., from the top of the stack
       stack is implemented through Array or linkedlist
@@ -13,7 +14,8 @@ what is stack?
       push()---- add element at the top of the stack
       pop()----remove element from the stack , remove element which is recently added.
       peek()---- print the element which is recently added.
-      isEmpty()--- it is boolean method , check the stack is empty or not.
+      isEmpty()--- check the stack is empty or not , return type is boolean.
+      
       
       Algorithm:
       
@@ -41,12 +43,25 @@ what is stack?
          top=top-1;
       }
       
-      peek operation - fetch the first element of the stack but doesn't remove the element from the stack. It doesn't take any parameter and return element type  
+      peek operation - fetch the first element of the stack but doesn't remove the element from the stack. It doesn't take any parameter but return element type  
       peek(){
            if(top == -1)
               sysout("no element to print");
            sysout("peek element is"+arr[top]);
       }
+      
+      
+      isEmpty(){
+            if(top == -1)
+              return true;
+            return false;
+      }
+      
+      
+      <img src="G:\stack.png"/>
+      
+      
+      
       
       
       
