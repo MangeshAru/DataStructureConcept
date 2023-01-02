@@ -58,13 +58,7 @@ what is stack?
       }
       
       
-      <img src="G:\stack.svg" width="128"/>
       <img src="G:\stack.png"  alt="stack"/>
-      ![stack](stack.png)
-      
-      
-      
-      
      
       
         
