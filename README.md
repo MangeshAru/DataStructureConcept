@@ -7,7 +7,9 @@
       stack is the data structure which follows LIFO 
       insertion and deletion happens at the same end i.e., from the top of the stack
       stack is implemented through Array or linkedlist
+      
 ##method :
+
       push()---- add element at the top of the stack
       pop()----remove element from the stack , remove element which is recently added.
       peek()---- print the element which is recently added.
