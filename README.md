@@ -1,16 +1,13 @@
 # DataStructureConcept
 
 # stack 
-what is stack?
 
-     ------------------------------------------------stack----------------------------------------------------------------
-     
       stack is simply first in last out.
       Insertion and deletion happens at the same end.
       stack is the data structure which follows LIFO 
       insertion and deletion happens at the same end i.e., from the top of the stack
       stack is implemented through Array or linkedlist
-      method :
+##method :
       push()---- add element at the top of the stack
       pop()----remove element from the stack , remove element which is recently added.
       peek()---- print the element which is recently added.
@@ -71,7 +68,7 @@ what is stack?
      5.
      
       
-  ## Queue
+# Queue
      - Queue is linear data structure i.e., that arrange the data items in orderly manner.
      - Follow the first in first out property.
      - New element is added at **rear end**
