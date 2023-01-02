@@ -71,7 +71,7 @@ what is stack?
      5.
      
       
-     ## `Queue`
+  ## Queue
      - Queue is linear data structure i.e., that arrange the data items in orderly manner.
      - Follow the first in first out property.
      - New element is added at **rear end**
