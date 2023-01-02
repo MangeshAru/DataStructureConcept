@@ -71,13 +71,13 @@ what is stack?
      5.
      
       
-     # Queue
+     ## `Queue`
      - Queue is linear data structure i.e., that arrange the data items in orderly manner.
      - Follow the first in first out property.
      - New element is added at **rear end**
      - Existing element is deleted from other side i.e., ** front end **
      
-     ** --- Types of queue ---- **
+      ### `** --- Types of queue ---- **`
      1. Simple Queue - it defines insertion occurs at rear end and deletion occurs at front end.
      2. Circular Queue - also called Ring buffer in which last node is attached to the first node so it acts like a circular, insertion occurs at rear end and deletion
                           occurs at front end.
