@@ -62,6 +62,14 @@ what is stack?
      ![stack](/stack.png)
      
      ![stack](https://github.com/MangeshAru/DataStructureConcept/blob/main/stack.png)
+     
+     Application :
+     1.Balance Parenthesis
+     2.prefix,postfix,infix. 
+     3.
+     4.
+     5.
+     
       
      # Queue
      - Queue is linear data structure i.e., that arrange the data items in orderly manner.
@@ -70,7 +78,25 @@ what is stack?
      - Existing element is deleted from other side i.e., ** front end **
      
      ** --- Types of queue ---- **
-     1. Simple Queue
-     2. Circular Queue
-     3. Deque(double ended queue)
-     4. Priority Queue 
+     1. Simple Queue - it defines insertion occurs at rear end and deletion occurs at front end.
+     2. Circular Queue - also called Ring buffer in which last node is attached to the first node so it acts like a circular, insertion occurs at rear end and deletion
+                          occurs at front end.
+     3. Deque(double ended queue) - insertion and deletion is performed from both end.
+     4. Priority Queue - insertion is performed in the order of arrival but deletion is performed on the basis of priority.
+     
+     Linear queue v/s Circular queue
+     
+     1.Linear queue stores data in sequence as we know linear data struture require more memory and in circular queue data can possible to enter and delete from any          position.
+     2. linear queue is less efficient and circular queue is more efficient.
+     
+     Methods in queue :
+     
+     1. enqueue() - add or store data to queue. 
+     2. dequeue() - remove or access element from queue.
+     3. peek()    - get the element from the front end without removing it.
+     3. isFull()  - check the queue is full.
+     4. isEmpty() - check the queue isempty.
+     
+     
+     
+     
