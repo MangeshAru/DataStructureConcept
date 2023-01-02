@@ -77,7 +77,7 @@ what is stack?
      - New element is added at **rear end**
      - Existing element is deleted from other side i.e., ** front end **
      
-      ### `** --- Types of queue ---- **`
+  ### Types of queue 
      1. Simple Queue - it defines insertion occurs at rear end and deletion occurs at front end.
      2. Circular Queue - also called Ring buffer in which last node is attached to the first node so it acts like a circular, insertion occurs at rear end and deletion
                           occurs at front end.
@@ -89,7 +89,7 @@ what is stack?
      1.Linear queue stores data in sequence as we know linear data struture require more memory and in circular queue data can possible to enter and delete from any          position.
      2. linear queue is less efficient and circular queue is more efficient.
      
-     Methods in queue :
+  ### Methods in queue :
      
      1. enqueue() - add or store data to queue. 
      2. dequeue() - remove or access element from queue.
