@@ -58,7 +58,7 @@ what is stack?
       }
       
       
-      <img src="G:\stack.png"  alt="stack"/>
+      <img src="https://github.com/MangeshAru/DataStructureConcept/blob/main/stack.png"  alt="stack"/>
      
       
         
