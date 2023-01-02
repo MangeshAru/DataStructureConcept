@@ -59,7 +59,7 @@ what is stack?
       
       
       <img src=""  alt="stack"/>
-     ![stack](stack.png)
+     ![stack](/stack.png)
      
      ![stack](https://github.com/MangeshAru/DataStructureConcept/blob/main/stack.png)
       
