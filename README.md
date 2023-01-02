@@ -17,7 +17,7 @@ what is stack?
       isEmpty()--- check the stack is empty or not , return type is boolean.
       
       
-      Algorithm:
+ ## Algorithm:
       
       Implementation using Array:
       Imagine array as stack in which we add element using push operation and remove element using pop operation.
@@ -61,9 +61,9 @@ what is stack?
       <img src=""  alt="stack"/>
      ![stack](/stack.png)
      
-     ![stack](https://github.com/MangeshAru/DataStructureConcept/blob/main/stack.png)
+   ![stack](https://github.com/MangeshAru/DataStructureConcept/blob/main/stack.png)
      
-     Application :
+   ## Application :
      1.Balance Parenthesis
      2.prefix,postfix,infix. 
      3.
