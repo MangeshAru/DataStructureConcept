@@ -8,7 +8,7 @@
       insertion and deletion happens at the same end i.e., from the top of the stack
       stack is implemented through Array or linkedlist
       
-##method :
+  ## method :
 
       push()---- add element at the top of the stack
       pop()----remove element from the stack , remove element which is recently added.
@@ -62,7 +62,7 @@
      
    ![stack](https://github.com/MangeshAru/DataStructureConcept/blob/main/stack.png)
      
-   ## Application :
+  ## Application :
      1.Balance Parenthesis
      2.prefix,postfix,infix. 
      3.
