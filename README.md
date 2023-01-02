@@ -63,13 +63,13 @@ what is stack?
      
      ![stack](https://github.com/MangeshAru/DataStructureConcept/blob/main/stack.png)
       
-     #Queue
+     # Queue
      - Queue is linear data structure i.e., that arrange the data items in orderly manner.
      - Follow the first in first out property.
      - New element is added at **rear end**
      - Existing element is deleted from other side i.e., ** front end **
      
-     ** types of queue **
+     ** --- Types of queue ---- **
      1. Simple Queue
      2. Circular Queue
      3. Deque(double ended queue)
